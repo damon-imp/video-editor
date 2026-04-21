@@ -1,4 +1,4 @@
-# Impruvu Roadmap for video-use
+# Impruvu Roadmap for video-editor
 
 This fork extends the original browser-use/video-use skill for Impruvu's content operations. The base skill handles generic video editing; Impruvu additions target our specific workflows.
 
@@ -12,7 +12,7 @@ This fork extends the original browser-use/video-use skill for Impruvu's content
 ## Phase 1 — Foundation (install + validate)
 
 - [ ] Clone fork to local workstation
-- [ ] Symlink into `~/.claude/skills/video-use`
+- [ ] Symlink into `~/.claude/skills/video-editor`
 - [ ] Add `ELEVENLABS_API_KEY` to `.env`
 - [ ] Install ffmpeg + yt-dlp
 - [ ] Dry run on one short Fathom recording
